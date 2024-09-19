@@ -22,4 +22,4 @@ Vielen Dank!
 邮箱地址：gabrielle9093@gmail.com
 谢谢!
 
-https://github.com/outman2024/virtuchat/blob/1493c7ceea8892723b0620b6ab236b127500a5d1/icon.png
+![app_icon](https://github.com/outman2024/virtuchat/blob/1493c7ceea8892723b0620b6ab236b127500a5d1/icon.png)
